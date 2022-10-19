@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074123127239",
+    "project_id": "the-chatters-group",
+    "storage_bucket": "the-chatters-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074123127239:android:8bd3199865c5172cfc41e2",
+        "android_client_info": {
+          "package_name": "com.example.thechattersgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074123127239-aihihsi1s9psnn8jqmhj894kvfg0n0jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvBFtjM9BzytHGSWGVtweXMcUExSnmthE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074123127239-aihihsi1s9psnn8jqmhj894kvfg0n0jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
